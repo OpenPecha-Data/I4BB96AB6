@@ -10,98 +10,118 @@ source_metadata:
       title: ''
       volume_number: 1
       total_pages: 774
+      base_file: v001.txt
     0fed3fd46c6945fd9088fd744d5f00f8:
       image_group_id: I4PD3027
       title: ''
       volume_number: 2
       total_pages: 884
+      base_file: v002.txt
     e5f3159e4aef4892be85dc4689ec5210:
       image_group_id: I4PD3028
       title: ''
       volume_number: 3
       total_pages: 832
+      base_file: v003.txt
     5414cec7da8745649916c60e0a04453f:
       image_group_id: I4PD3029
       title: ''
       volume_number: 4
       total_pages: 728
+      base_file: v004.txt
     bfee594e9dd0432e90f3899a95013ff0:
       image_group_id: I4PD3030
       title: ''
       volume_number: 5
       total_pages: 718
+      base_file: v005.txt
     3bb5d05bb47343d2a8aefef8261a5da0:
       image_group_id: I4PD3031
       title: ''
       volume_number: 6
       total_pages: 780
+      base_file: v006.txt
     834f0f3c4e774a1585dd7f03cb8fa5e7:
       image_group_id: I4PD3032
       title: ''
       volume_number: 7
       total_pages: 782
+      base_file: v007.txt
     24a5d950d0c7484cb2929563f77cf1fd:
       image_group_id: I4PD3033
       title: ''
       volume_number: 8
       total_pages: 638
+      base_file: v008.txt
     42cb639893344bb985659aeae37e12e7:
       image_group_id: I4PD3034
       title: ''
       volume_number: 9
       total_pages: 830
+      base_file: v009.txt
     7a37d610dee742c49cbe5aaf14e7e628:
       image_group_id: I4PD3035
       title: ''
       volume_number: 10
       total_pages: 530
+      base_file: v010.txt
     85d080cbe6624d0caf1a1f3ada6350e4:
       image_group_id: I4PD3036
       title: ''
       volume_number: 11
       total_pages: 654
+      base_file: v011.txt
     3a5b38b1f30b490aae1abe1fd7ff8aad:
       image_group_id: I4PD3037
       title: ''
       volume_number: 12
       total_pages: 818
+      base_file: v012.txt
     edb4ce8accdd4fd488f75cbb89058646:
       image_group_id: I4PD3038
       title: ''
       volume_number: 13
       total_pages: 902
+      base_file: v013.txt
     5c2a8bdda7e5496690287977be78764e:
       image_group_id: I4PD3039
       title: ''
       volume_number: 14
       total_pages: 794
+      base_file: v014.txt
     b4c8b9c77d5b498393e24ec55b4bb5df:
       image_group_id: I4PD3040
       title: ''
       volume_number: 15
       total_pages: 642
+      base_file: v015.txt
     be0352c20c91496c968dbcd4c56b6cef:
       image_group_id: I4PD3041
       title: ''
       volume_number: 16
       total_pages: 722
+      base_file: v016.txt
     3bfc0b79509c4f76b55c0c8295acfedd:
       image_group_id: I4PD3042
       title: ''
       volume_number: 17
       total_pages: 530
+      base_file: v017.txt
     fcc4a0d4ab254fb38cd07ecf3fb09a17:
       image_group_id: I4PD3043
       title: ''
       volume_number: 18
       total_pages: 790
+      base_file: v018.txt
     2c55a99cf4884c50aad04f332ca422d0:
       image_group_id: I4PD3044
       title: ''
       volume_number: 19
       total_pages: 754
+      base_file: v019.txt
     81bb58df08b544bb96209bee0c3e7034:
       image_group_id: I4PD3045
       title: ''
       volume_number: 20
       total_pages: 638
+      base_file: v020.txt
